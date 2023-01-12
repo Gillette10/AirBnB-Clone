@@ -23,7 +23,7 @@ function App() {
 							display: "flex",
 							flexDirection: "column",
 							flexGrow: 1,
-							height: { md: 1050, sm: 730, xs: 400, lg: 500 },
+							height: { md: 1050, sm: 730, xs: 330, lg: 500 },
 							overflowY: "scroll",
 						}}
 					>
